@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.expenseitem{
+
+    
+    display: flex;
+    justify-content:safe;
+    align-items: center;
+    box-shadow: 0 2px 8px black;
+    padding: 0.5rem;
+    margin: 1rem 1rem;
+    background-color: gray;
+    border-radius: 12px;
+}
+
+.item{
+    color: white;
+    margin-left: 20px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.price{
+        margin-left: auto;
+        text-align: center;
+        box-shadow: 0 2px 8px white;
+        padding: 0.5rem;
+        background-color: purple;
+        color: white;
+        border-radius: 12px;  
+}

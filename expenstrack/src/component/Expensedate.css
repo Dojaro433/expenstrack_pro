@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.expensedate{
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    box-shadow: 0 2px 8px white;
+    padding: 0.5rem;
+    margin-left: 1.4rem ;
+    background-color: black;
+    color: white;
+    border-radius: 12px;
+}
+

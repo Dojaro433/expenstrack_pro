@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+
+.expenses{
+    background-color: black;
+    padding: 4rem;
+    color: white;
+}
+

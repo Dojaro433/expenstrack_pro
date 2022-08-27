@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.expenseform{
+    background-color: blueviolet;
+    
+   
+    font-size: large;
+    align-items: center;
+    box-shadow: 0 2px 8px black;
+    padding: 0.5rem;
+    margin: 1rem 1rem;
+    border-radius: 12px;
+}
+
+.title{
+    float: left;
+    
+    /* display: flex;
+    justify-content: space-evenly; */
+}
+
+.amount{
+    padding-left: 450px;
+    
+}
+
+.date{
+    margin-top: 50px;
+    
+}
+
+.submit{
+
+    text-align: end;
+    margin: 20px;
+
+    text-decoration: solid;
+    
+}
+
+button{
+    background-color: purple;
+    border: solid 2px purple;
+    box-shadow: 0 2px 8px white;
+    color: white;
+     border-radius: 6px;
+     font-size: x-large;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    width: 150px;
+}
+
+
+.formShow{
+    display: block;
+}
+
+.formHide{
+    display: none;
+}
+
+.newExp{
+    display: flex;
+    justify-content: center;
+}
+
+@media(max-width:640px){
+
+
+    .amount{
+        padding-left: 200px;
+        
+    }
+
+
+
+
+}

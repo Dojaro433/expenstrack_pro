@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.end{
+    display: flex;
+    justify-content: end;
+}
+
+select{
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 15px;
+    
+}
+
+label{
+    margin-right: auto;
+}
+
